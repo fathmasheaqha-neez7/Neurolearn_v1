@@ -1,0 +1,11 @@
+flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+spacy==3.7.4
+rake-nltk==1.0.6
+nltk==3.8.1
+textstat==0.7.3
+anthropic==0.28.0
+groq==0.11.0
+httpx==0.27.0
+gunicorn==22.0.0
